@@ -45,9 +45,7 @@ The design works, but opening the site feels a bit cold. I'd go back and do more
 **📸 Preview**
 
 <!-- Replace the URL below with a real screenshot or GIF of your site -->
-![Terminal Pomodoro Preview](https://via.placeholder.com/800x450.png?text=Terminal+Pomodoro+Screenshot)
-
-> 💡 *Tip: A GIF of the timer counting down and switching modes works great here. Try [Kap](https://getkap.co/) (macOS) or [ScreenToGif](https://www.screentogif.com/) (Windows) to record one.*
+![Terminal Pomodoro Preview](https://github.com/Yousor0/midterm-pomodoro-ai-project/raw/main/previews/preview.gif)
 
 **🛠 Stack**
 
@@ -63,8 +61,4 @@ The design works, but opening the site feels a bit cold. I'd go back and do more
 
 **🔁 What I'd Do Differently**
 
-The UI needs more polish at smaller sizes — some elements lose visibility and contrast, especially in light mode. I'd also rethink the task list UX: better keyboard navigation, clearer state management, and making it feel as native to the terminal theme as the timer itself.
-
----
-
-*Built with curiosity and too many browser tabs open.*
+The UI needs more polish at smaller sizes and some elements lose visibility and contrast, especially in light mode. I'd also rethink the task list UX: better keyboard navigation, clearer state management, and making it feel as native to the terminal theme as the timer itself.
