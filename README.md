@@ -14,7 +14,7 @@ I'm a Web Developer who loves to solve daily problems in my life by building and
 
 **📸 Preview**
 
-![Golden Dragon Preview]()
+![Golden Dragon Preview](https://github.com/Yousor0/claude-code-resturant-week2/raw/main/previews/Animation.gif)
 
 **🛠 Stack**
 
@@ -43,9 +43,9 @@ The design works, but opening the site feels a bit cold. I'd go back and do more
 
 ![Terminal Pomodoro Preview](https://github.com/Yousor0/midterm-pomodoro-ai-project/raw/main/previews/preview.gif)
 
-**🛠 Stack**
+**🛠 Tech Stack**
 
-`React` `Vite` `Node.js` `Supabase Auth` `PostgreSQL`
+`Next.js` `React` `React DOM` `Supabase (SSR + JS client)` `Tailwind CSS 4` `PostCSS`
 
 **⚙️ What I Built**
 - A Pomodoro timer with a retro Linux terminal aesthetic
