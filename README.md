@@ -14,10 +14,7 @@ I'm a Web Developer who loves to solve daily problems in my life by building and
 
 **📸 Preview**
 
-<!-- Replace the URL below with a real screenshot or GIF of your site -->
-![Golden Dragon Preview](https://via.placeholder.com/800x450.png?text=Golden+Dragon+Screenshot)
-
-> 💡 *Tip: Take a screenshot of your live site and upload it to your repo under `/assets/golden-dragon-preview.png`, then update the path above.*
+![Golden Dragon Preview]()
 
 **🛠 Stack**
 
@@ -44,14 +41,11 @@ The design works, but opening the site feels a bit cold. I'd go back and do more
 
 **📸 Preview**
 
-<!-- Replace the URL below with a real screenshot or GIF of your site -->
 ![Terminal Pomodoro Preview](https://github.com/Yousor0/midterm-pomodoro-ai-project/raw/main/previews/preview.gif)
 
 **🛠 Stack**
 
-`React` `Vite` `Node.js` `User Authentication` `PostgreSQL`
-
-> *(Update this section with your full stack — auth library, ORM, hosting, etc.)*
+`React` `Vite` `Node.js` `Supabase Auth` `PostgreSQL`
 
 **⚙️ What I Built**
 - A Pomodoro timer with a retro Linux terminal aesthetic
